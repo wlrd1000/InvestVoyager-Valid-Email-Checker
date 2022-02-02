@@ -1,5 +1,5 @@
 # InvestVoyager-Valid-Email-Checker
-InvestVoyager Valid Email Checker Leaked
+InvestVoyager Valid Email Checker
 
 INSTALL:
 1. Install python 3.9+
